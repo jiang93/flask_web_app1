@@ -5,7 +5,7 @@ This is a simple Flask web app that allows users to register, log in, post notes
 
 ## Features
 
-- User signuo & login
+- User signup & login
 - Secure password hashing
 - Each user can create and view their own notes
 - Users can delete only their own notes
